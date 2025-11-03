@@ -1,3 +1,4 @@
 # Practicas-Coppel
 Capacitacion de Git y GitHub
-Ejercicio 1
+Ejercicio de práctica de integración de Ruben Gonzalez
+Ejercicio de conflicto
